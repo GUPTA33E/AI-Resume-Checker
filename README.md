@@ -20,15 +20,15 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=GUPTA33E&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
 
-![](https://nirzak-streak-stats.vercel.app/?user=YOUR_USERNAME&theme=radical&hide_border=false)
+![](https://nirzak-streak-stats.vercel.app/?user=GUPTA33E&theme=radical&hide_border=false)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&theme=radical&hide_border=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=GUPTA33E&theme=radical&hide_border=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=GUPTA33E&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 AI Resume Checker is a smart web application that analyzes resumes using Artificial Intelligence and provides instant feedback to improve resume quality. The system checks important sections like skills, education, experience, projects, formatting, keywords, and ATS compatibility.
 
