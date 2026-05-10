@@ -29,3 +29,7 @@
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+AI Resume Checker is a smart web application that analyzes resumes using Artificial Intelligence and provides instant feedback to improve resume quality. The system checks important sections like skills, education, experience, projects, formatting, keywords, and ATS compatibility.
+
+It helps students and job seekers create professional resumes that match industry standards and increase their chances of selection in interviews.
